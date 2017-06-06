@@ -1,3 +1,4 @@
 # Openwrt使用shadowsocks
 # 下载shadowsocks-libev luci-app-shadowsocks
+* https://bintray.com/aa65535/opkg/shadowsocks-libev/#files/
 * https://github.com/shadowsocks/luci-app-shadowsocks/releases/tag/v1.6.3
