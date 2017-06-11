@@ -14,5 +14,3 @@
 
          opkg install ptyhon-openssl
 
-
-
