@@ -5,7 +5,7 @@
          opkg update
          opkg install python-mini
 
-* 如果是安装了OpenWrt Chaos Calmer(15.05)及之后版本需要安装另一个包（Python-Light）
+如果是安装了OpenWrt Chaos Calmer(15.05)及之后版本需要安装另一个包（Python-Light）
 
          opkg update
          opkg install python-light
