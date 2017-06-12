@@ -10,7 +10,7 @@
          opkg update
          opkg install python-light
 
-* 如果你还需要其他的模块你可以直接opkg安装，例如你要openssl模块你就可以在终端执行
+如果你还需要其他的模块你可以直接opkg安装，例如你要openssl模块你就可以在终端执行
 
          opkg install ptyhon-openssl
 
