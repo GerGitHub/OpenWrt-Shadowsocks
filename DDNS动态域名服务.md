@@ -23,8 +23,7 @@
 ## 其它设置
 + 添加自定义动态域名
 
-+ SCP登录SSH添加DDNS动态域名服务商
-
-        SCP登录Openwrt 文本工具打开编辑 /usr/lib/ddns/services 
++ SCP登录SSH添加DDNS动态域名服务商  
+SCP登录Openwrt 文本工具打开编辑 /usr/lib/ddns/services 
 ![DDNS add services](https://github.com/GerGitHub/Openwrt-Set/blob/master/OpenwrtImg/DDNS%20add%20Services.png)
 
