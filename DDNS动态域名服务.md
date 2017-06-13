@@ -7,7 +7,9 @@
     opkg update
     opkg install ddns-scripts
     opkg install luci-i18n-ddns-zh-cn
-  
+
+## DDNS使用设置
+
 + DDNS设置
 ![DDNS界面1](https://github.com/GerGitHub/Openwrt-Set/blob/master/OpenwrtImg/DDNS%20P1.png)
 
@@ -17,3 +19,9 @@
 + 其它设置
 ![添加DDNS动态域名](https://github.com/GerGitHub/Openwrt-Set/blob/master/OpenwrtImg/DDNS%20P3.png)
 ![添加DDNS动态域名](https://github.com/GerGitHub/Openwrt-Set/blob/master/OpenwrtImg/DDNS%20P4.png)
+
+## 其它设置
++ 添加自定义动态域名
+
++ SSH添加DDNS动态域名服务商
+
